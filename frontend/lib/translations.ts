@@ -1,0 +1,55 @@
+export const translations = {
+  en: {
+    platformName: "AI Legal Assistance Platform",
+    badge: "⚖ AI-powered • Trusted • Explainable",
+    title1: "Understand legal issues in plain language",
+    title2: "with AI assistance",
+    subtitle:
+      "Ask legal questions, analyze documents, explore provisions, and get clear, reliable, explainable legal guidance.",
+    getStarted: "Get Started",
+    dashboard: "Continue to Dashboard",
+    login: "Login",
+    feature1Title: "Plain Language Answers",
+    feature1Desc: "Simplified legal explanations",
+    feature2Title: "Document Analysis",
+    feature2Desc: "Upload, analyze, and extract insights",
+    feature3Title: "Relevant Provisions",
+    feature3Desc: "IPC, CrPC, and legal sections",
+  },
+
+  hi: {
+    platformName: "एआई कानूनी सहायता प्लेटफॉर्म",
+    badge: "⚖ AI-संचालित • विश्वसनीय • व्याख्यात्मक",
+    title1: "कानूनी मुद्दों को सरल भाषा में समझें",
+    title2: "AI सहायता के साथ",
+    subtitle:
+      "कानूनी प्रश्न पूछें, दस्तावेज़ों का विश्लेषण करें, प्रावधान खोजें और स्पष्ट, विश्वसनीय कानूनी मार्गदर्शन प्राप्त करें।",
+    getStarted: "शुरू करें",
+    dashboard: "डैशबोर्ड पर जाएं",
+    login: "लॉगिन",
+    feature1Title: "सरल भाषा में उत्तर",
+    feature1Desc: "आसान कानूनी व्याख्याएँ",
+    feature2Title: "दस्तावेज़ विश्लेषण",
+    feature2Desc: "अपलोड, विश्लेषण और जानकारी निकालें",
+    feature3Title: "संबंधित प्रावधान",
+    feature3Desc: "IPC, CrPC और कानूनी धाराएँ",
+  },
+
+  ml: {
+    platformName: "AI നിയമ സഹായ പ്ലാറ്റ്ഫോം",
+    badge: "⚖ AI അടിസ്ഥാനത്തിൽ • വിശ്വസനീയം • വിശദീകരണയോഗ്യം",
+    title1: "നിയമ പ്രശ്നങ്ങൾ ലളിതമായ ഭാഷയിൽ മനസ്സിലാക്കൂ",
+    title2: "AI സഹായത്തോടെ",
+    subtitle:
+      "നിയമ ചോദ്യങ്ങൾ ചോദിക്കൂ, രേഖകൾ വിശകലനം ചെയ്യൂ, നിയമ വകുപ്പുകൾ കണ്ടെത്തൂ, വ്യക്തവും വിശ്വസനീയവുമായ മാർഗനിർദേശം നേടൂ.",
+    getStarted: "തുടങ്ങുക",
+    dashboard: "ഡാഷ്ബോർഡിലേക്ക് പോകുക",
+    login: "ലോഗിൻ",
+    feature1Title: "ലളിതമായ ഉത്തരങ്ങൾ",
+    feature1Desc: "എളുപ്പത്തിലുള്ള നിയമ വിശദീകരണങ്ങൾ",
+    feature2Title: "ഡോക്യുമെന്റ് വിശകലനം",
+    feature2Desc: "അപ്‌ലോഡ്, വിശകലനം, വിവരങ്ങൾ കണ്ടെത്തൽ",
+    feature3Title: "ബന്ധപ്പെട്ട വകുപ്പുകൾ",
+    feature3Desc: "IPC, CrPC, നിയമ വകുപ്പുകൾ",
+  },
+};

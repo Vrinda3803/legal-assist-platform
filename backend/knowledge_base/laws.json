@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "section": "420 IPC",
+    "jurisdiction": "India",
+    "title": "Cheating and dishonestly inducing delivery of property",
+    "plain_summary": "Section 420 IPC punishes cheating where a person dishonestly induces another to deliver property. Punishment can be up to 7 years imprisonment.",
+    "keywords": ["cheat", "fraud", "420", "property", "dishonest"]
+  },
+  {
+    "id": 2,
+    "section": "Indian Contract Act 1872",
+    "jurisdiction": "India",
+    "title": "Valid Contract Requirements",
+    "plain_summary": "A contract is valid only if there is free consent, lawful consideration, and lawful object.",
+    "keywords": ["contract", "agreement", "consent", "consideration"]
+  },
+  {
+    "id": 3,
+    "section": "Section 498A IPC",
+    "jurisdiction": "India",
+    "title": "Cruelty by husband or relatives",
+    "plain_summary": "Husband or his relatives subjecting a woman to cruelty is punishable with up to 3 years imprisonment.",
+    "keywords": ["498a", "cruelty", "dowry", "wife"]
+  },
+  {
+    "id": 4,
+    "section": "Consumer Protection Act 2019",
+    "jurisdiction": "India",
+    "title": "Consumer Rights",
+    "plain_summary": "Consumers have the right to be protected against unfair trade practices and defective goods/services.",
+    "keywords": ["consumer", "defective", "service", "product"]
+  }
+]

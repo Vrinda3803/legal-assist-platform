@@ -1,0 +1,1 @@
+def safe_decode_text(content: bytes) -
